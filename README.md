@@ -159,9 +159,13 @@ We integrated all 20,000 cells from 4 different collection sites into a single s
 
 *Figure 2a (from paper): UMAP of the Multigrate integrated latent space for Dataset 3 — cells cluster by cell type, not by batch*
 
-![Benchmark Metrics](figures/fig2bc_benchmark_metrics.png)
+![Benchmark Metrics](figures/fig2b_metrics_table.png)
 
-*Figure 2b/c (from paper): Integration quality metrics and overall ranking — Multigrate achieves the best overall score across all 3 datasets*
+*Figure 2b (from paper): Integration quality metrics per method and dataset*
+
+![Benchmark Bar Chart](figures/fig2c_bar_chart.png)
+
+*Figure 2c (from paper): Overall score bar chart — Multigrate achieves the best score across all 3 datasets**
 
 ### Our reproduction
 
