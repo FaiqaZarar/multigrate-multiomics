@@ -165,7 +165,7 @@ We integrated all 20,000 cells from 4 different collection sites into a single s
 
 ![Benchmark Bar Chart](figures/fig2c_bar_chart.png)
 
-*Figure 2c (from paper): Overall score bar chart — Multigrate achieves the best score across all 3 datasets**
+*Figure 2c (from paper): Overall score bar chart — Multigrate achieves the best score across all 3 datasets*
 
 ### Our reproduction
 
